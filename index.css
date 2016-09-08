@@ -24,6 +24,7 @@ border-style:solid;
 border-color:black
 border-width:thin solid black;
 border-radius:10px;
+
 }
 
 .bildruta{
@@ -34,7 +35,6 @@ border-color:black
 border-width:thin solid black;
 border-radius:10px;
 }
-
 #p1h{
 color:darkgrey;
 padding-left:115px;
