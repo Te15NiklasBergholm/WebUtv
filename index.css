@@ -1,0 +1,63 @@
+body{
+background-color:lightgrey;
+font-family: "Comic Sans MS"
+}
+
+p {
+font-weight:lighter;
+padding:25; 
+}
+
+.snyggruta{
+width: 450px;
+margin:auto;
+border-style:solid;
+border-color:black
+border-width:thin solid black;
+border-radius:10px;
+}
+
+.snyggruta2{
+width: 450px;
+margin:auto;
+border-style:solid;
+border-color:black
+border-width:thin solid black;
+border-radius:10px;
+}
+
+.bildruta{
+width: 450px;
+margin:auto;
+border-style:solid;
+border-color:black
+border-width:thin solid black;
+border-radius:10px;
+}
+
+#p1h{
+color:darkgrey;
+padding-left:115px;
+}
+
+#p2h{
+color:darkgrey;
+padding-left:175px;
+}
+
+#p3h{
+color:darkgrey;
+padding-left:150px;
+
+}
+#bildruta{
+margin-top:50px;
+}
+
+#snyggruta{
+
+}
+#snyggruta2{
+margin-top:65px;
+}
+
